@@ -11,13 +11,7 @@ F7+CTRL                 Step out
 F8                      Debug start
 F8+CTRL                 Debug stop
 
+ALT+ENTER               Korjaa ihan kaiken lol
+CTRL+SPACE              CompleteList
 
-
-
-
-sassddfasdfsdfasdfsa
-
-Resharper_cuickfix         alt+enter
-EditcompleteWord           ctrl+space
-Ressharper_completeCodeTypeName    -> ctrl+space
 
