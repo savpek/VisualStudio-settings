@@ -1,0 +1,23 @@
+CTRL+SHIFT+R            Rename method etc (refactor)
+CTRL+SHIFT+S            Chane signature (refactor)
+
+CTRL
+CTRL+SPACE              Dropdown completion
+
+F5                      Toggle breakpoint
+F6                      Step over
+F7                      Step into
+F7+CTRL                 Step out
+F8                      Debug start
+F8+CTRL                 Debug stop
+
+
+
+
+
+sassddfasdfsdfasdfsa
+
+Resharper_cuickfix         alt+enter
+EditcompleteWord           ctrl+space
+Ressharper_completeCodeTypeName    -> ctrl+space
+
